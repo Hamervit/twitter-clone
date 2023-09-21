@@ -19,6 +19,10 @@
     "@typescript-eslint/no-misused-promises": "off",
     "@typescript-eslint/quotes": "off",
     "@typescript-eslint/semi": "off",
-    "@typescript-eslint/space-before-function-paren": "off"
+    "@typescript-eslint/space-before-function-paren": "off",
+    "one-var": "off",
+    "@typescript-eslint/indent": "off",
+    "multiline-ternary": "off",
+    "@typescript-eslint/member-delimiter-style": "off"
   }
 }
